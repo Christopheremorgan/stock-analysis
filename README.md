@@ -6,6 +6,8 @@ Created a VBA-enabled analytical tool to analyze and compare 2017 & 2018 perform
 ### Purpose
 The analysis will support the diversification of a client's green energy investment portfolio to spread risk and improve returns.  The client currently holds only one green energy stock, DAQO New Energy Corp (ticker: DQ).
 
+
+
 ## Results
 
 ### 2017 Performance
@@ -20,6 +22,8 @@ Performance for these green energy stocks was not as favorable in 2018.  Most of
 
 ### Indicated Actions
 Further research ENPH & RUN as potential targets for investment to identify if there is still growth potential for these energy stocks.  ENPH has provided high returns the past couple years. 
+
+
 
 
 ## Summary
