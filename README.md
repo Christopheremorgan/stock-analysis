@@ -28,7 +28,7 @@ Further research ENPH & RUN as potential targets for investment to identify if t
 A big advantage of refactoring code is speed, especially where speed provides a competitive advantage.  Refactoring could also potentially fix recurring bugs and should make it easier to maintain and further develop the product.  Disadvantages include potential time it takes to refactor and debug the code for stability, especially if deadlines and timing are an issue.
 
 ### Refactoring the Green Energy Stocks VBA Script Pros & Cons
-The VBA tool is currently sitting on a cloud drive.  After refactoring the code, the analysis ran 3 to 5 times faster than the base code.  Although runtime difference is noticeable, the run time is not incredibly long for the base data.   The difference would be more noticeable if used with a larger data set.
+The VBA tool is currently sitting on a cloud drive.  After refactoring the code, the analysis ran 3 to 5 times faster than the base code.  Although runtime difference is noticeable, the run time is not incredibly long for the original VBA tool.   The difference would be more noticeable if used with a larger data set.
 
 ![image_name](https://github.com/Christopheremorgan/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)   ![image_name](https://github.com/Christopheremorgan/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
